@@ -1,0 +1,14 @@
+{
+  "name": "responsive-sushi-restaurant-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "t.js",
+  "scripts": {
+    "compile:sass": "node-sass -w sass/style.scss css/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
